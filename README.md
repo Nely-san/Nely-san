@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nely-san
-- 👀 I’m interested in: Making games but siding now with application dev
+- 👀 I’m interested in: Making games but currently going back to front-end.
 - 🌱 I’m currently learning: From scratch again by doing project along the way.
-- 📫 How to reach me: Message me on my linked socials
+- 📫 How to reach me: Message me on my linked socials.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a fast adapter once I understand it. 
 
